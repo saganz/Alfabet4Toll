@@ -1912,6 +1912,96 @@ body {
     padding-bottom: 0!important;
   }
 }
+.cid-rkAzi5A6FG {
+  background-image: url("../../../assets/images/toll-integrations-1353x656.png");
+}
+.cid-rkAzi5A6FG .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rkAzi5A6FG .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-rkAzi5A6FG .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rkAyA1CGaF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rkAyA1CGaF .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rkAyA1CGaF .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rkAyA1CGaF .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rkAyA1CGaF .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-rkAyA1CGaF .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rkAyA1CGaF .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rkAyA1CGaF .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rkAyA1CGaF .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rkAyA1CGaF .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rkAyA1CGaF .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-rkAyA1CGaF .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rkAyA1CGaF .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rkAyA1CGaF .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
 .cid-rkyPR3iYXd {
   padding-top: 30px;
   padding-bottom: 0px;
